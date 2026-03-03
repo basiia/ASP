@@ -13,6 +13,7 @@ D:\ASP\src\UniDesc.Web\obj\Debug\net8.0\UniDesc.Web.csproj.CoreCompileInputs.cac
 D:\ASP\src\UniDesc.Web\obj\Debug\net8.0\UniDesc.Web.MvcApplicationPartsAssemblyInfo.cache
 D:\ASP\src\UniDesc.Web\obj\Debug\net8.0\UniDesc.Web.RazorAssemblyInfo.cache
 D:\ASP\src\UniDesc.Web\obj\Debug\net8.0\UniDesc.Web.RazorAssemblyInfo.cs
+D:\ASP\src\UniDesc.Web\obj\Debug\net8.0\UniDesc.Web.sourcelink.json
 D:\ASP\src\UniDesc.Web\obj\Debug\net8.0\staticwebassets.build.json
 D:\ASP\src\UniDesc.Web\obj\Debug\net8.0\staticwebassets.development.json
 D:\ASP\src\UniDesc.Web\obj\Debug\net8.0\staticwebassets\msbuild.UniDesc.Web.Microsoft.AspNetCore.StaticWebAssets.props
